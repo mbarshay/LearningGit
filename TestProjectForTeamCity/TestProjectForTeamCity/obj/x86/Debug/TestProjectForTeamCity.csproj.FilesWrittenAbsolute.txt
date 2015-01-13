@@ -1,0 +1,5 @@
+/Users/meilakhbarshay/Desktop/LearningGit/TestProjectForTeamCity/TestProjectForTeamCity/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/meilakhbarshay/Desktop/LearningGit/TestProjectForTeamCity/TestProjectForTeamCity/bin/Debug/TestProjectForTeamCity.exe.mdb
+/Users/meilakhbarshay/Desktop/LearningGit/TestProjectForTeamCity/TestProjectForTeamCity/bin/Debug/TestProjectForTeamCity.exe
+/Users/meilakhbarshay/Desktop/LearningGit/TestProjectForTeamCity/TestProjectForTeamCity/obj/x86/Debug/TestProjectForTeamCity.exe
+/Users/meilakhbarshay/Desktop/LearningGit/TestProjectForTeamCity/TestProjectForTeamCity/obj/x86/Debug/TestProjectForTeamCity.exe.mdb
